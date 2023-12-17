@@ -9,7 +9,7 @@ function addTask() {
   
       const deleteButton = document.createElement('button');
       deleteButton.textContent = 'Delete';
-      deleteButton.className = 'delete-btn'; // Add this line to assign the delete-btn class
+      deleteButton.className = 'delete-btn'; 
       deleteButton.onclick = function () {
         taskList.removeChild(newTask);
       };
