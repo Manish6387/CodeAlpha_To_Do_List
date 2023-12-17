@@ -17,10 +17,13 @@ Open index.html in your preferred web browser.
 3. Click the delete button to remove tasks.   
 
 # Project Structure
-├── index.html           # Main HTML file for the application
-├── styles.css           # CSS file for styling the application
-├── script.js            # JavaScript file containing application logic
-└── README.md            # Project documentation
+├── index.html            # Main HTML file for the application
+
+├── styles.css            # CSS file for styling the application
+
+├── script.js             # JavaScript file containing application logic
+
+└── README.md             # Project documentation
 
 # Styling
 The application features a simple yet intuitive interface, styled using CSS to provide a clean and user-friendly experience.
