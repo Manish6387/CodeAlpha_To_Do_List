@@ -8,7 +8,6 @@ Clean Interface: Intuitive and straightforward interface for better usability.
 
 # Installation
 Clone the repository:
-Copy code
 git clone https://github.com/Manish6387/CodeAlpha_To_Do_List
 Open index.html in your preferred web browser.
 
@@ -18,7 +17,6 @@ Open index.html in your preferred web browser.
 3. Click the delete button to remove tasks.   
 
 # Project Structure
-Copy code
 ├── index.html           # Main HTML file for the application
 ├── styles.css           # CSS file for styling the application
 ├── script.js            # JavaScript file containing application logic
